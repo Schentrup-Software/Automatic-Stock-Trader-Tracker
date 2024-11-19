@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "chart.js": "^2.9.4",
-    "firebase": "^8.2.9",
+    "firebase": "^10.9.0",
     "lodash": "^4.17.21",
     "react": "^17.0.1",
     "react-chartjs-2": "^2.11.1",
